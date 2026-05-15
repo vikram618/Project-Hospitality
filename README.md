@@ -14,7 +14,8 @@ DA_P1171 Hospitality Analytics/
 ├── SQLFILE.sql               # Data cleaning & 38+ analytical queries
 ├── ExcelprojectT.xlsm        # Excel dashboard with macros
 ├── TABLEAUPROJECT.twbx       # Tableau workbook with interactive dashboards
-└── PowerBI_Dashboard.pbix    # Power BI report (coming soon)
+└── PowerBI_Dashboard.pbix    # Power BI report
+|__ Final PPT presentation    # PPT 
 ```
 
 ---
